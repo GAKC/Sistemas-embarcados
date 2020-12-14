@@ -58,7 +58,7 @@
 * Alexsander S. Sena -
 * Artur T. Diniz - 10308850
 * Danilo H. Akiyama - 10415662
-* Guillhermo A. Krauch - 
+* Guillhermo A. Krauch - 9357105
 
 
 ### Instituição
